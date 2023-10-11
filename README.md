@@ -7,13 +7,13 @@ https://github.com/AlensEv/Nasa-Earth-Weather-API-
 
 
 
+![MAPS](https://github.com/AlensEv/Nasa-Earth-Weather-API-/assets/90947905/1187308d-eb3b-4781-8b01-90b362ed8175)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <img width="1577" alt="Screenshot 2023-10-10 at 8 08 36 PM" src="https://github.com/AlensEv/Nasa-Earth-Weather-API-/assets/90947905/757949e6-7b82-47e4-8685-e16e2f0d1915">
 
 
-![MAPS](https://github.com/AlensEv/Nasa-Earth-Weather-API-/assets/90947905/1187308d-eb3b-4781-8b01-90b362ed8175)
 
 
 
