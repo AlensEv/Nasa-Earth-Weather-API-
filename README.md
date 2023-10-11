@@ -2,14 +2,37 @@
 
 
 
+https://github.com/AlensEv/Nasa-Earth-Weather-API-
+
+
+
+
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1577" alt="Screenshot 2023-10-10 at 8 08 36 PM" src="https://github.com/AlensEv/Nasa-Earth-Weather-API-/assets/90947905/757949e6-7b82-47e4-8685-e16e2f0d1915">
+
+
+
+
+
+This project uses the weather API from https://api.nasa.gov/ along with React , Java Script Html to display, Nasa Natural event near live data on a map. 
+https://api.nasa.gov/
+
+
+The map was configured using Google Maps API which an API key will be needed for operation 
+https://developers.google.com/maps
+
+
+
+
+
 
 
 
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<img width="1577" alt="Screenshot 2023-10-10 at 8 08 36 PM" src="https://github.com/AlensEv/Nasa-Earth-Weather-API-/assets/90947905/757949e6-7b82-47e4-8685-e16e2f0d1915">
 
 ## Available Scripts
 
