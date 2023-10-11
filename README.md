@@ -21,6 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project uses the weather API from https://api.nasa.gov/ along with React , Java Script Html to display, Nasa Natural event near live data on a map. 
 https://api.nasa.gov/
 
+This app tracks natural events suchs as wildfires, Storms, Icebergs, Volcanoes and more
 
 The map was configured using Google Maps API which an API key will be needed for operation 
 https://developers.google.com/maps
