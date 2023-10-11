@@ -8,6 +8,8 @@
 
 
 This app tracks natural events suchs as wildfires, Storms, Icebergs, Volcanoes and more
+
+
 <img width="1577" alt="Screenshot 2023-10-10 at 8 08 36 PM" src="https://github.com/AlensEv/Nasa-Earth-Weather-API-/assets/90947905/757949e6-7b82-47e4-8685-e16e2f0d1915">
 
 ![Maps](https://github.com/AlensEv/Nasa-Earth-Weather-API-/assets/90947905/c5e74f1c-93ed-4209-824e-50e219193a58)
