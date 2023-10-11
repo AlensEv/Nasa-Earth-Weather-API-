@@ -1,9 +1,5 @@
 
 
-<img width="1577" alt="Screenshot 2023-10-10 at 8 08 36 PM" src="https://github.com/AlensEv/Nasa-Earth-Weather-API-/assets/90947905/d9b2cb25-8dce-4f1a-8c6d-8ae20445737e">
-
-
-
 
 
 
